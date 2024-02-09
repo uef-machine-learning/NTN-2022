@@ -59,3 +59,4 @@ Second node id = 1, K = 5, neighbors = [399 442 238 0 444], weights = [1.0 1.0 1
 |         | Finland| Sweden | Norway | Denmark | Iceland |
 | ------- | ------ | ------ | ------ | ------- | ------- |
 |  Nodes  | 1,275  | 1,001  |  362   |   516   |   119   |
+
