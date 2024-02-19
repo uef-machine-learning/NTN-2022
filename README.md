@@ -10,7 +10,7 @@ Contact: [masoud.fatemi@uef.fi](masoud.fatemi@uef.fi)
 This dataset is intended for academic research and analysis focused on the empirical structure of social relations within the Nordic Twittersphere. Users are encouraged to cite our paper in any resulting work.
 
 ## Cite
-M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordic Social Media Users Based on Connection", *Submitted to Social Media + Society*, 2024.
+M. Fatemi, S. Sieranoja, M. Laitinen, and P. Fränti, "Cluster Analysis of Nordic Social Media Users Based on Connection", *Submitted to Nordicom Review*, 2024.
 
 ## Dataset Creation Process
 The dataset was developed in 4 steps: **user extraction**, **labelling**, **filtering**, and **tweet collection** across the entire network. Here is a brief overview of the steps involved:
