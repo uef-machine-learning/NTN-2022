@@ -50,6 +50,7 @@ Second node id = 1, K = 5, neighbors = [399 442 238 0 444], weights = [1.0 1.0 1
 
 
 - **labels.txt:** Includes node IDs and their corresponding country labels.
+- **labels_detailed.txt:** Includes node IDs and their corresponding country and city.
 
 ## Statistical Summary
 **Nodes:** 3,273 <br />
